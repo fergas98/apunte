@@ -1,2 +1,3 @@
-Lo que colocó Julia no va
+Hola soy Julia, trabajo en probramación
+
 
